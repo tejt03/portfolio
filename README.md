@@ -13,9 +13,8 @@ The site focuses on:
 
 Tech Stack:-
 
-Frontend
-Next.js
-React
-TypeScript
-Tailwind CSS
-Framer Motion
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- Framer Motion
